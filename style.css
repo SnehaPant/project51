@@ -1,0 +1,117 @@
+h2{
+    color:#000000;
+ 
+}
+p{
+    color:#000000
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+  color:#000000;
+ 
+    background-color: #bc8f8f;
+}
+.body{
+    display: flex;
+    justify-content: center;
+  
+    background-color: #fd8072;
+}
+body{
+  
+   
+    background-color: lightslategray;
+}
+.grid{
+    border: 2px solid #000000;
+    border-radius: 20px;
+    display: flex;
+   flex-direction: row;
+
+  
+   background-color: #87cefd;
+  
+}
+.camel{
+    border-radius: 50px;
+    background-color: #ffffff;
+ padding: 20px;
+   margin: 20px;
+   width: 300px;
+  
+   background-color: #fda07a;
+   
+}
+.chameleon{
+    border-radius: 40px;
+    background-color: #ffffff;
+   padding: 20px;
+   margin: 20px;
+   width: 300px;
+   background-color: #fda07a;
+}
+.pigeon{
+    border-radius: 40px;
+    background-color: #ffffff;
+    padding: 20px;
+    background-color: #fda07a;
+    margin: 20px;
+   width: 300px;
+}
+.cicada{
+    border-radius: 40px;
+    background-color: #ffffff;
+   margin: 20px;
+    padding: 20px;
+   width: 300px;
+   background-color: #fda07a;
+}
+
+a:link{
+    color:white
+}
+a:visited{
+    color:black ;
+}
+.camel:hover img{
+    opacity: 0.5;
+}
+.chameleon:hover img{
+    opacity: 0.5;
+}
+.pigeon:hover img{
+    opacity: 0.5;
+}
+.cicada:hover img{
+    opacity: 0.5;
+}
+.camel:hover h2{
+    opacity: 0.5;
+}
+.camel:hover p{
+    opacity: 0.5;
+}
+.chameleon:hover h2{
+    opacity: 0.5;
+}
+.chameleon:hover p{
+    opacity: 0.5;
+}
+.pigeon:hover h2{
+    opacity: 0.5;
+}
+.pigeon:hover p{
+    opacity: 0.5;
+}.cicada:hover h2{
+    opacity: 0.5;
+}
+.cicada:hover p{
+    opacity: 0.5;
+}
+.para{
+   
+    background-color: #eed700;
+}
+
